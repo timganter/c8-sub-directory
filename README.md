@@ -1,6 +1,7 @@
 # Overview
 
-When running c8 from a sub-directory to test code in a `src` folder one directory up, code coverage doesn't work.
+- When running c8 from a sub-directory to test code in a `src` folder one directory up, code coverage doesn't work. 
+- Issue filed in the c8 repo: https://github.com/bcoe/c8/issues/527
 
 ## Steps to reproduce
 
