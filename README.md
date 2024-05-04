@@ -13,7 +13,7 @@ When running c8 from a sub-directory to test code in a `src` folder one director
 7. `npm run test`
 8. See that 1 test passes and 0% coverage. 😢
 
-## Animation
+## Video
 
 https://github.com/timganter/c8-sub-directory/assets/1911000/24637a9a-cc95-4d3a-8d95-b9a7cf199304
 
