@@ -1,0 +1,17 @@
+{
+  "name": "c8-not-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "c8 mocha"
+  },
+  "author": "Tim Ganter",
+  "license": "ISC",
+  "devDependencies": {
+    "c8": "^9.1.0",
+    "mocha": "^10.4.0",
+    "chai": "^5.1.0"
+  }
+}
